@@ -1,3 +1,5 @@
 Es Python lo programe  en Visual Studio (dentro de la misma aplicacion daba la opcion de instalar la extencion)
 mi codigo trata de que uno da un numer de alumnos 
 se preguntas sus respectivos nombres y notas y al terminar de darlas  la entrega en orden ( metodo burbuja)
+
+un comentario (disculpe que deje lo que esta en verde se me olvido borrarlo, pero era otra forma de obtener los datos pero era poco eficiente dependiendo de la cantidad de alumnos)
